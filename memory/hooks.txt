@@ -1,0 +1,37 @@
+# hooks.txt
+# These are hook patterns that work for dark history content.
+# The agent reads these before writing every script.
+# Add new patterns here every 2 weeks based on your best performing videos.
+# Format: write the pattern, then a real example of it in action.
+
+---
+
+PATTERN: "For [X years], [institution] hid the truth about [event]"
+EXAMPLE: "For 40 years, the US government hid the truth about what they did to their own soldiers."
+
+PATTERN: "The [authority figure] who [did shocking thing] — and was never punished"
+EXAMPLE: "The doctor who killed hundreds of patients — and was never charged with a single crime."
+
+PATTERN: "What [government/organization] did to [victims] will never be taught in school"
+EXAMPLE: "What the British Empire did to this country will never be taught in your school."
+
+PATTERN: "You've been told [common belief] — but the real story is far darker"
+EXAMPLE: "You've been told this was an accident — but the real story is far darker."
+
+PATTERN: "[Famous event] wasn't [what people think] — it was [darker truth]"
+EXAMPLE: "The moon landing wasn't just about space — it was about something far more disturbing."
+
+PATTERN: "[Person] discovered [shocking thing] — then [consequence that sounds impossible]"
+EXAMPLE: "This scientist discovered what was really in the water — then disappeared for 3 years."
+
+PATTERN: "In [year], [authority] made a decision that [consequence affecting real people]"
+EXAMPLE: "In 1932, the US government made a decision that destroyed thousands of lives — on purpose."
+
+PATTERN: "The real reason [historical event happened] has been classified for [X] years"
+EXAMPLE: "The real reason this war started has been classified for 60 years — until now."
+
+PATTERN: "Nobody talks about what happened to [group of people] after [famous event]"
+EXAMPLE: "Nobody talks about what happened to the survivors after the experiment ended."
+
+PATTERN: "[Number] people [did/experienced shocking thing] — and the world pretended it never happened"
+EXAMPLE: "400 men were injected without consent — and the world pretended it never happened."
