@@ -146,3 +146,9 @@ vite.config.ts.timestamp-*
 memory/memory.json
 output/
 *.log
+memory/memory.test.json
+memory/scripts/
+outputs/
+dist/
+clean_link.txt
+npx
